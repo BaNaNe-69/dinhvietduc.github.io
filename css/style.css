@@ -3648,7 +3648,7 @@ body {
 .main {
   background-image: url(../img/background.jpg);
   background-size: cover;
-  padding: 50px 0px 50px 0px;
+  padding: 20px 0px 20px 0px;
 }
 
 .image {
@@ -3846,7 +3846,7 @@ body {
 }
 
 .container-2 {
-  padding: 50px 20px 50px 20px;
+  padding: 20px;
   background-color: var(--background-color);
   border-radius: 20px;
   box-shadow: #010125 3px 3px 9px;
